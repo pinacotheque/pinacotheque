@@ -4,7 +4,6 @@
 - 🌱 I’m currently in never ending learning process.. 
 - 💬 Ask me about anything!
 - 📫 How to reach me: gamzegunerig@gmail.com
-- 
 
 <!--
 **pinacotheque/pinacotheque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
